@@ -12,6 +12,7 @@ const ChessBoard = () => {
       <BlackLine/>
       <LineWhite/>
       <BlackLine/>
+      <p>Good shit</p>
     </div>
   )
 }
